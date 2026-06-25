@@ -1,5 +1,21 @@
 # 💫 About Me:
-# Hi, I'm Bhavik Shivhare 👋<br><br>🚀 AI/ML Enthusiast | GenAI Developer | Technical Support Engineer<br><br>I am an experienced L2 Technical Support Engineer with 3+ years of expertise in production support, SQL/MySQL, application troubleshooting, deployment management, and enterprise banking systems. I have worked on mission-critical payment platforms including NEFT, RTGS, NACH, PFMS, and E-NACH, ensuring system reliability and operational excellence.<br><br>Recently, I expanded my expertise into Artificial Intelligence and Machine Learning, gaining hands-on experience in Machine Learning, Deep Learning, NLP, Generative AI, AI Agents, LangChain, FastAPI, Streamlit, RAG, Vector Databases, and LLM-powered applications.<br><br>🔹 Technical Skills:<br><br>* Python, SQL, MySQL<br>* Machine Learning & Deep Learning<br>* NLP, Generative AI, LLMs<br>* LangChain, RAG, AI Agents<br>* FastAPI, Streamlit<br>* Vector Databases<br>* Django REST Framework<br>* Oracle WebLogic, IBM WebSphere, Apache Tomcat<br><br>🔹 Featured Projects:<br><br>* AI-Powered SQL Chatbot using LangChain, Groq, Ollama, FastAPI, and Streamlit<br>* Deep Learning-Based Twitter Sentiment Analysis Application<br>* Intelligent Automation & LLM-Powered Solutions<br><br>I am passionate about building AI-driven applications, solving complex business problems, and continuously learning emerging technologies in the AI ecosystem.<br><br>📫 Let's connect and collaborate on AI, Machine Learning, and Backend Development projects!<br>
+# Hi, I'm Bhavik Shivhare 👋<br><br># Hi, I'm Bhavik Shivhare 👋
+
+🚀 AI/ML Engineer | GenAI Developer | Technical Support Professional
+
+Experienced Technical Support Engineer with 4+ years of expertise in production support, SQL/MySQL, application troubleshooting, and enterprise banking systems. Currently transitioning into AI and Machine Learning with hands-on experience in Generative AI, LLMs, RAG, LangChain, FastAPI, Streamlit, NLP, and Deep Learning.
+
+### Tech Stack
+
+* Python | SQL | MySQL
+* Machine Learning | Deep Learning | NLP
+* Generative AI | LLMs | RAG | AI Agents
+* LangChain | FastAPI | Streamlit
+* Django REST Framework | Vector Databases
+* WebLogic | WebSphere | Tomcat
+
+Passionate about building AI-driven applications, solving real-world problems, and leveraging technology to create impactful solutions.
+🔹 Featured Projects:<br><br>* AI-Powered SQL Chatbot using LangChain, Groq, Ollama, FastAPI, and Streamlit<br>* Deep Learning-Based Twitter Sentiment Analysis Application<br>* Intelligent Automation & LLM-Powered Solutions<br><br>I am passionate about building AI-driven applications, solving complex business problems, and continuously learning emerging technologies in the AI ecosystem.<br><br>📫 Let's connect and collaborate on AI, Machine Learning, and Backend Development projects!<br>
 
 
 ## 🌐 Socials:
