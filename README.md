@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Bhavik Shivhare 👋<br><br>#
+# Hi, I'm Bhavik Shivhare 👋<br><br>
 🚀 AI/ML Engineer | GenAI Developer | Technical Support Professional
 
 Experienced Technical Support Engineer with 4+ years of expertise in production support, SQL/MySQL, application troubleshooting, and enterprise banking systems. Currently transitioning into AI and Machine Learning with hands-on experience in Generative AI, LLMs, RAG, LangChain, FastAPI, Streamlit, NLP, and Deep Learning.
